@@ -21,4 +21,5 @@ Nuestro personaje deberá esquivar paredes y enemigos, romper paredes del tipo d
 
 Las teclas que usaremos son solamente las flechas para el movimiento y la tecla enter para afirmar si reiniciar el juego
 
+
 ## Otros

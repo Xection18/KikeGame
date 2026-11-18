@@ -2,7 +2,6 @@
 
 ## Equipo de desarrollo
 
-- **LEANDRO LEONEL RAMOS**
 - **JOHANN GUSTAVO ADAM**
 
 ## Capturas

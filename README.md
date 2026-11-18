@@ -1,14 +1,16 @@
 # Kike Game
 
+- **Universidad Nacional De Hurlingham**
+
 ## Equipo de desarrollo
 
 - **JOHANN GUSTAVO ADAM**
 
 ## Capturas
-![KikeGame1](./assets/KikeGame1.png)
-![KikeGame2](./assets/KikeGame2.png)
-![KikeGame3](./assets/KikeGame3.png)
-![KikeGame4](./assets/KikeGame4.png)
+![KikeGame1](./assets/KikeGame1.jpg)
+![KikeGame2](./assets/KikeGame2.jpg)
+![KikeGame3](./assets/KikeGame3.jpg)
+![KikeGame4](./assets/KikeGame4.jpg)
 
 ## Reglas de Juego / Instrucciones
 
